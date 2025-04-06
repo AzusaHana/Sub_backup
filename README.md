@@ -23,23 +23,23 @@
 ---
 
 ### C
-- [超超超超超喜歡你的100個女朋友](./超超超超超喜歡你的100個女朋友)
-- [處刑少女的生存之道](./處刑少女的生存之道)
+- [超超超超超喜歡你的100個女朋友](./超超超超超喜歡你的100個女朋友) ```君のことが大大大大大好きな100人の彼女```  
+- [處刑少女的生存之道](./處刑少女的生存之道) ```処刑少女の生きる道```  
 
 ---
 
 ### D
-- [DAN DA DAN](./DAN%20DA%20DAN)
-- [打工吧！魔王大人 第二季](./打工吧！魔王大人%20第二季)
-- [隊長小翼](./隊長小翼)
-- [隊長小翼第二季 青少年篇](./隊長小翼第二季%20青少年篇)
+- [DAN DA DAN](./DAN%20DA%20DAN) ```ダンダダン```  
+- [打工吧！魔王大人 第二季](./打工吧！魔王大人%20第二季) ```はたらく魔王さま!!```  
+- [隊長小翼](./隊長小翼) ```キャプテン翼```  
+- [隊長小翼第二季 青少年篇](./隊長小翼第二季%20青少年篇) ```キャプテン翼シーズン2 ジュニアユース編```  
 
 ---
 
 ### F
-- [Fairy Gone](./Fairy%20Gone)
-- [Fate/stay night: Unlimited Blade Works](./Fate%20stay%20night%20%20Unlimited%20Blade%20Works)
-- [Fate/Zero](./Fate%20Zero)
+- [Fairy Gone](./Fairy%20Gone) ```Fairy gone フェアリーゴーン```  
+- [Fate/Zero](./Fate%20Zero) ```Fate/Zero```  
+- [Fate/stay night: Unlimited Blade Works](./Fate%20stay%20night%20%20Unlimited%20Blade%20Works) ```Fate/stay night [Unlimited Blade Works]```  
 
 ---
 
