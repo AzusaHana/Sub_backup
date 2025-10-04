@@ -152,7 +152,8 @@
 - [SHY 靦腆英雄](./SHY%20靦腆英雄) ```SHY```  
 - [SPECIAL EDITED VERSION 海賊王 魚人島篇](./SPECIAL%20EDITED%20VERSION%20海賊王%20魚人島篇) ```SPECIAL EDITED VERSION『ONE PIECE』魚人島編```  
 - [SPY × FAMILY間諜家家酒](./SPY%20×%20FAMILY間諜家家酒) ```SPY×FAMILY```  
-- [SPY x FAMILY間諜家家酒 Season 2](./SPY%20x%20FAMILY間諜家家酒%20Season%202) ```SPY×FAMILY Season 2```  
+- [SPY x FAMILY間諜家家酒 Season 2](./SPY%20x%20FAMILY間諜家家酒%20Season%202) ```SPY×FAMILY Season 2```
+- [SPY x FAMILY間諜家家酒 Season 3](./SPY%20x%20FAMILY間諜家家酒%20Season%203) ```SPY×FAMILY Season 3```  
 - [S級怪獸《貝希摩斯》被誤認成小貓，成為精靈女孩的騎士（寵物）一起生活](./S級怪獸《貝希摩斯》被誤認成小貓，成為精靈女孩的騎士（寵物）一起生活) ```Sランクモンスターの≪ベヒーモス≫だけど、猫と間違われてエルフ娘の騎士(ペット)として暮らしてます```  
 - [四月是你的謊言](./四月是你的謊言) ```四月は君の嘘```
 - [素材採集家的異世界旅行記](./素材採集家的異世界旅行記) ```素材採取家の異世界旅行記```  
