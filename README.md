@@ -141,7 +141,8 @@
 
 ### O
 
-- [ONE PIECE FAN LETTER](./ONE%20PIECE%20FAN%20LETTER) ```ONE PIECE FAN LETTER```  
+- [ONE PIECE FAN LETTER](./ONE%20PIECE%20FAN%20LETTER) ```ONE PIECE FAN LETTER```
+- [ONE PIECE HEROINES](./ONE%20PIECE%20HEROINES) ```ONE PIECE HEROINES```  
 - [OVERLORD IV](./OVERLORD%20IV) ```オーバーロードIV```  
 
 ---
@@ -183,6 +184,7 @@
 - [SPY x FAMILY間諜家家酒 Season 2](./SPY%20x%20FAMILY間諜家家酒%20Season%202) ```SPY×FAMILY Season 2```
 - [SPY x FAMILY間諜家家酒 Season 3](./SPY%20x%20FAMILY間諜家家酒%20Season%203) ```SPY×FAMILY Season 3```  
 - [S級怪獸《貝希摩斯》被誤認成小貓，成為精靈女孩的騎士（寵物）一起生活](./S級怪獸《貝希摩斯》被誤認成小貓，成為精靈女孩的騎士（寵物）一起生活) ```Sランクモンスターの≪ベヒーモス≫だけど、猫と間違われてエルフ娘の騎士(ペット)として暮らしてます```
+- [世界最強後衛～迷宮國的新人探索者～](./世界最強後衛～迷宮國的新人探索者～) ```世界最強の後衛 ～迷宮国の新人探索者～```  
 - [數碼暴龍 BEATBREAK](./數碼暴龍%20BEATBREAK) ```DIGIMON BEATBREAK```  
 - [四月是你的謊言](./四月是你的謊言) ```四月は君の嘘```
 - [素材採集家的異世界旅行記](./素材採集家的異世界旅行記) ```素材採取家の異世界旅行記```  
